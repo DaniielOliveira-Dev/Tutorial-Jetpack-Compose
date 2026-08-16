@@ -35,6 +35,12 @@ Durante o desenvolvimento do projeto foram abordados conceitos como:
 - Jetpack Compose
 - Material Design
 
+## 👨‍💻 Autor
+
+**Daniel de Oliveira Moreira**
+
+Estudante de Análise e Desenvolvimento de Sistemas.
+
 ## 📂 Estrutura do projeto
 
 Os principais arquivos desenvolvidos durante o tutorial incluem:
@@ -47,9 +53,3 @@ app/
              └── com.example.composetutorial/
                  ├── MainActivity.kt
                  └── SampleData.kt
-
-## 👨‍💻 Autor
-
-**Daniel de Oliveira Moreira**
-
-Estudante de Análise e Desenvolvimento de Sistemas.
